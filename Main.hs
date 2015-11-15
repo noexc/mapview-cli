@@ -33,7 +33,7 @@ demoData =
          <=> str "Temperature : 12°C"
        ]
   <+>
-      hBox [ padLeft Max $
+      hBox [ padRight Max $
                  str "GPS time : Wed Nov 26 07:25:01 UTC 2014"
              <=> str "Speed        : 12.3 km/h"
              <=> str "Power        : 4.381v (96%)"
