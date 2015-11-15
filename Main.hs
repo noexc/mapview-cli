@@ -34,9 +34,9 @@ demoData =
        ]
   <+>
       hBox [ padLeft Max $
-                 str "Current time : Wed Nov 26 07:25:01 UTC 2014"
+                 str "GPS time : Wed Nov 26 07:25:01 UTC 2014"
              <=> str "Speed        : 12.3 km/h"
-             <=> str "GPS time     : Wed Nov 26 07:24:40 UTC 2014"
+             <=> str "Power        : 4.381v (96%)"
              <=> str "Magnetometer : (123, 456, 789)"
              <=> str "Δ alt.       : 1 meter per second"
            ]
